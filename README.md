@@ -17,5 +17,5 @@ Bu proje, React Native ve TypeScript kullanılarak geliştirilmiş bir E-Ticaret
 
 # 📷 
 
+https://github.com/user-attachments/assets/064d7344-d6ee-4557-abdf-2b4c92192050
 
-https://github.com/user-attachments/assets/a0c5b8ac-fc05-4e59-999b-705f49987639
